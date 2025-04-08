@@ -1,4 +1,4 @@
-☑️ S'inscrire/se connecter à son espace à travers un module sécurisé. 
+☑️ S'inscrire/se connecter à son espace à travers un module sécurisé.</br> 
 ☑️ Consulter son solde de compte, ses opérations ainsi que leurs natures.
 ☑️ Trier ses opérations avec un filtrage.
 
